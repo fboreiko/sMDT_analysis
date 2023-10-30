@@ -1,2 +1,0 @@
-# sMDT analysis
-
